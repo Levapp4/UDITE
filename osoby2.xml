@@ -30,6 +30,7 @@
         <rocnik>1</rocnik>
         <pohlavi>žena</pohlavi>
         <predmety>
+            
             <predmet>
                 <zkratka>WEB</zkratka>
                 <nazev>Webové technologie</nazev>
